@@ -6,7 +6,7 @@
 			"openbutton": 0,
 			"hideicon": false,
 			"hideiconafter": 0,
-			"iconurl": "https://pic.survivalhost.org/images/2026/05/02/AXED2.png",
+			"iconurl": "https://pic.survivalhost.org/images/2026/05/04/AXED2.png",
 			"disableicontext": true,
 			"iconposition": 0,
 			"icontextcolor": 0,
@@ -18,7 +18,7 @@
 			{
 				"layout": 1,
 				"buttontext": "О СЕРВЕРЕ",
-				"imageurl": "https://pic.survivalhost.org/images/2026/05/02/AXED2.png",
+				"imageurl": "https://pic.survivalhost.org/images/2026/05/04/AXED2.png",
 				"content":[
 					{
 						"title": "ДОБРО ПОЖАЛОВАТЬ НА AXED!",
@@ -33,7 +33,7 @@
 			{
 				"layout": 1,
 				"buttontext": "ПРАВИЛА",
-				"imageurl": "https://pic.survivalhost.org/images/2026/05/02/AXED2.png",
+				"imageurl": "https://pic.survivalhost.org/images/2026/05/04/AXED2.png",
 				"content":[
 					{
 						"title": "СВОД ПРАВИЛ КЛАСТЕРА AXED",
@@ -44,7 +44,7 @@
 			{
 				"layout": 2,
 				"buttontext": "РЕЙТЫ",
-				"imageurl": "https://pic.survivalhost.org/images/2026/05/02/AXED2.png",
+				"imageurl": "https://pic.survivalhost.org/images/2026/05/04/AXED2.png",
 				"content":[
 					{
 						"title": "ТЕКУЩИЕ РЕЙТЫ",
