@@ -7,7 +7,7 @@
 			"hideicon": false,
 			"hideiconafter": 0,
 			"iconurl": "https://pic.survivalhost.org/images/2026/05/02/AXED2.png",
-			"disableicontext": False,
+			"disableicontext": true,
 			"iconposition": 0,
 			"icontextcolor": 0,
 			"openonstart": true,
